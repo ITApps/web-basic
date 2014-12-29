@@ -6,11 +6,16 @@ a app for web basic
 一款专注于web技术的轻量级,良心应用,完全免费,只为了把这么多年积累的不大值钱的`技术`分享给更多的人,并且让他们也能很快的投入的学习,工作当中,用这些技术从事理想的工作,做喜欢的事情,技术不需要壁垒,我们需要的是分享.
 
                                                                                        jameslong, closure
+                                                                                       
+                                                                                           2015年1月1日
 
 ## 知识涵盖:
 
 + web基本概念
-  - 
+  - 什么是web
+  - 更多...
+
+  
 + web常用技术
   - html (超文本标记语言)
   - css  (层叠样式表)
@@ -19,7 +24,9 @@ a app for web basic
   - json
   - xml
   - webservice
-  - 
+  - 更多...
+
+
 + web常用编程语言
   - javascript
   - php
